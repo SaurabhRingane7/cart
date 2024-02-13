@@ -1,0 +1,107 @@
+
+*{box-sizing: border-box;margin: 0px;padding: 0px}
+
+/*section instantly add*/
+
+.InsTadd{
+background-color: rgb(0, 52, 86);
+color: rgb(204, 214, 221);  
+height: 45px;
+display: flex;
+justify-content: center;
+align-items: center;  
+padding-top: 5px;
+}
+
+.mj ul li a{
+	color: black !important;
+	font-size: 17px;
+                  }
+
+/*logostic section*/
+
+.logiCo{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.logHad{
+	    margin-top: 100px;
+        font-size: 57px;
+        font-weight: 900;
+        color: white;
+}
+.lopa{
+	 
+	 width: 650px;
+	 font-size: 23px;
+	 text-align: center;
+	 color: rgb(160, 186, 204);
+	 margin-bottom: 150px;
+	 
+}
+
+.rouBox{
+
+	background-color: white;
+    height: 50px;
+    border-radius: 27px;
+    width: 366px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 900;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.brandLogos img{
+	width: 58px;
+	height: 32px;
+}
+
+.brag{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
+/*footer section*/
+
+.listFoot ul li {
+	list-style-type: none;
+	font-size: 20px;
+}
+.listFoot ul li a{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+	font-weight:400;
+}
+.listFoot ul li a:hover{
+	 border-bottom: 1px solid red;
+}
+.listFoot  .jimi{
+	color: red;
+	font-size: 20px;
+	font-weight:600;
+}
+
+
+.brag1{
+	display: flex;
+	flex-direction: column;
+	align-items: center;  
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+ 
+  
+ 
+
+ 
